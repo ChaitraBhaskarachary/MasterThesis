@@ -31,11 +31,11 @@ if not Data_pos in sys.path:
 # My custom package for transforming the
 # healthy database csv files to
 # mne objects
-from Auxiliar import Healthy as HBT
+from Auxiliar import HealthyTransform as HBT
 from Auxiliar import AutismTransform as AT
-from Auxiliar import PairSignalConcat
+from Auxiliar import PreprocessingSignal
 from Auxiliar import OFHandlers as OFH
-from Auxiliar import CommonHelper as CH
+from Auxiliar import get_psd as psd
 
 path_Autism_data = Data_pos + "/Autism/"
 Autism_subjects = os.listdir(path_Autism_data)
