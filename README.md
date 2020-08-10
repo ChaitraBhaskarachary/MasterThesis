@@ -5,12 +5,11 @@ EEG Based Machine Learning Classification Methodologies for Autism Spectrum Diso
 
 # Authors
 This work is the joint effort of:
-Chaitra Bhaskarachary. chaitra22.bgnhc@gmail.com
-A. Jahanian Najafabadi. a.jahaniannajafabadi@jacobs-university.de
-Dr.Benjamin Godde. b.godde@jacobs-university.de
+- Chaitra Bhaskarachary. chaitra22.bgnhc@gmail.com
+- A. Jahanian Najafabadi. a.jahaniannajafabadi@jacobs-university.de
+- Dr.Benjamin Godde. b.godde@jacobs-university.de
 
 # Notice
-Even though you can not train the classifiers here, note the following:
  - We extracted resting EEG signals from the Healthy Brain Network dataset, made available by The Child Mind Institute through the 1000     Functional Connec- tomes Project / INDI. The EEG signals are publicly available, however pheno- typical data must be accessed through the Healthy Brain Network-dedicated instance of the Longitudinal Online Research and Imaging System (LORIS).
 - Neuroimaging Data Access
 - Downloading FCP-INDI Neuroimaging Data from Amazon S3
